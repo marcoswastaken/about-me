@@ -1,27 +1,19 @@
 For a brief overview of my education and employment history, see my [resume](https://github.com/marcoswastaken/my-skills/blob/main/Marcos_Ortiz_Resume_2023.pdf)
 
-# About Me
+# Objective
 
-I am a researcher, scientist, mathematician, teacher, and student. I love to explore technical questions and puzzles, and learn about new technology and tools that can be applied to solving problems. 
+To better understand machine learning and data scienc, and find ways that I can contribute in this field. 
 
-My academic and professional adventures, so far, have taught me a lot about myself, my strengths, and the kind of work that I find most rewarding.
+# Progress
 
-### Some of my strengths
-- I am a fast learner, especially when it comes to technical tools and concepts
-- I pay attention to details, even when the machinery involved is very complicated
-- When I get stuck, I am able to be flexible in my thinking and approach, and find a new way to attack the problem
-- I am a good communicator, both in expressing my own ideas and in listening to the ideas of my collaborators
+I feel that I have developed a solid understanding of the basic theory behind these tools, as well as some of their application to real world data and problems.
 
-### Work that I find rewarding:
-- Projects where I have the opportunity to collaborate with others, to learn together and work towards common goals
-- Developing or improving products that have a positive impact on entire communities
-- Challenging problems that involve tools and ideas from different disciplines
+My confidence has greatly increased, and I am eager to play more.
 
-I have recently become particularly interested in developments in machine learning, and data science. I am working to develop my skills with these tools to explore new problems and opportunities.
 
-# Recent Developments
+# Independent Study
 
-To build up my skills with machine learning and data science, I have utilized a variety of resources for independent study.
+I have utilized a variety of resources for independent study, and I feel that I have been fairly successful so far. Some of the highlights of my independent studies so far are summariezed below.
 
 ## Python Programming
 
@@ -40,12 +32,7 @@ Once I was feeling more confident with my python programing skills, I focused my
 - Independent Practice
    - Completed coursework and exercises from Jeff Heaton's course at Washington University in St. Louis, [T81 558:Applications of Deep Neural Networks](https://sites.wustl.edu/jeffheaton/t81-558/)
    - Worked with public datasets to practice applying what I've learned
-
-Some key concepts and tools I've built some familiarity with include:
-- Tensorflow
-- Keras
-- Pandas
-- Hyperparameter Optimization
+    - Here's a jupyter notebook I wrote while learning about Bayesian Hyperparameter optimization: [link](https://github.com/marcoswastaken/ML_practice/blob/main/Bayesian_HPO_example_01.ipynb)
 
 ## SQL
 
