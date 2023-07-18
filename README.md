@@ -45,7 +45,7 @@ Some key concepts and tools I've built some familiarity with include:
 - Tensorflow
 - Keras
 - Pandas
-- Baysian Hyperparameter Optimization
+- Hyperparameter Optimization
 
 ## SQL
 
