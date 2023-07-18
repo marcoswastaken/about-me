@@ -36,4 +36,17 @@ Once I was feeling more confident with my python programing skills, I focused my
    - Advanced Learning Algorithms
    - Unsupervised Learning, Reccomenders, Rienforcment Learning
 - Independent Practice
-   - Working with public datasets to practice applying what I've learned
+   - Completed coursework and exercises from Jeff Heaton's course at Washington University in St. Louis, [T81 558:Applications of Deep Neural Networks](https://sites.wustl.edu/jeffheaton/t81-558/)
+   - Worked with public datasets to practice applying what I've learned
+
+Some key concepts and tools I've built some familiarity with include:
+- Tensorflow
+- Keras
+- Pandas
+- Baysian Hyperparameter Optimization
+
+## SQL
+
+I have also begun to familiarize myself with SQL tools:
+- Completing the tutorial exercises on [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+- Completing SQL exercises on [leetcode](https://leetcode.com/marcoswastaken/)
