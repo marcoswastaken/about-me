@@ -1,3 +1,5 @@
+For a brief overview of my education and employment history, see my [resume](https://github.com/marcoswastaken/my-skills/blob/main/Marcos_Ortiz_Resume_2023.pdf)
+
 # About Me
 
 I am a researcher, scientist, mathematician, teacher, and student. I love to explore technical questions and puzzles, and learn about new technology and tools that can be applied to solving problems. 
