@@ -32,8 +32,8 @@ While I had used programming in python in my graduate research, I felt that it w
 Once I was feeling more confident with my python programing skills, I focused my efforts on building an understanding of the tools and technology involved in Machine Learning (ML):
 
 - Completed the **Machine Learning Specialization** course by Stanford University and DeepLearning.AI offered on Coursera. This involced earning certificate in three courses:
- - Supervised Machine Learning: Regression and Classification
- - Advanced Learning Algorithms
- - Unsupervised Learning, Reccomenders, Rienforcment Learning
+-- Supervised Machine Learning: Regression and Classification
+-- Advanced Learning Algorithms
+-- Unsupervised Learning, Reccomenders, Rienforcment Learning
 - Independent Practice
- - Working with public datasets to practice applying what I've learned
+-- Working with public datasets to practice applying what I've learned
