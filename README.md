@@ -26,10 +26,10 @@ I have recently become particularly interested in developments in machine learni
 To build a foundation in data science, I have relied primarily on independent study. I have completed several certifications, and completed coursework from a various open educational resources. Some highlights include:
 
 - Certificates:
-  - Machine Learning Specialization - [July 2023](https://www.coursera.org/account/accomplishments/specialization/certificate/CL9C8ZWVH2BG)
-  - Unsupervised Learning, Recommenders, Reinforcement Learning - [July 2023](https://www.coursera.org/account/accomplishments/certificate/XFB5Z367R3VM)
-  - Advanced Learning Algorithms - [June 2023](https://www.coursera.org/account/accomplishments/certificate/6NLAHG7P6WJQ)
-  -  Supervised Machine Learning: Regression and Classification - [May 2023](https://www.coursera.org/account/accomplishments/certificate/TDX8X87TPF7W)
+  - Machine Learning Specialization (July 2023) [certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/CL9C8ZWVH2BG)
+  - Unsupervised Learning, Recommenders, Reinforcement Learning (July 2023) [certificate](https://www.coursera.org/account/accomplishments/certificate/XFB5Z367R3VM)
+  - Advanced Learning Algorithms (June 2023) [certificate](https://www.coursera.org/account/accomplishments/certificate/6NLAHG7P6WJQ)
+  -  Supervised Machine Learning: Regression and Classification (May 2023) [certificate](https://www.coursera.org/account/accomplishments/certificate/TDX8X87TPF7W)
 
 In the notes and lab exercises accompanying these certificates I developed familiarity with many fundamental concepts and machine learning tools, including:
  - Using popular machine learning libraries like NumPy and scikit-learn
