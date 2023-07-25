@@ -1,4 +1,4 @@
-My current [resume](https://github.com/marcoswastaken/my-skills/blob/main/Marcos_Ortiz_Resume_2023.pdf)
+My current [resume](https://github.com/marcoswastaken/about-me/blob/903495ad931e4ad5c82dbf3494450f62250ed427/Ortiz_Marcos_resume.pdf)
 
 # About Me
 
