@@ -1,4 +1,5 @@
-My current [resume](https://github.com/marcoswastaken/about-me/blob/903495ad931e4ad5c82dbf3494450f62250ed427/Ortiz_Marcos_resume.pdf)
+[one page resume](Ortiz_Marcos_resume.pdf)
+[more detailed resume](Ortiz_Marcos_resume_detailed.pdf)
 
 # About Me
 
