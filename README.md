@@ -1,4 +1,5 @@
 [one page resume](Ortiz_Marcos_resume.pdf)
+
 [more detailed resume](Ortiz_Marcos_resume_detailed.pdf)
 
 # About Me
