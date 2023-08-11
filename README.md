@@ -2,7 +2,7 @@ Check out my [current resume](ORTIZ-MARCOS-RESUME.pdf).
 
 # About Me
 
-I am a PhD Mathematician from the University of Iowa, with seven years of academic and research experience. My research interests include topology, and experimental mathematics. I am proficient in programming, machine learning, and data science. I love to explore technical questions and puzzles, and learn about new tools that can be applied to solving these problems. I am currently at a transition point in my career, seeking industry opportunities in data science, machine learning, or related fields.
+I am a PhD Mathematician from the University of Iowa, with more than 14 years of academic and research experience. My research interests include contact topology, and experimental mathematics. I am proficient in programming, machine learning, and data science. I love to explore technical questions and puzzles, and learn about new tools that can be applied to solving these problems. I am currently at a transition point in my career, seeking industry opportunities in data science, machine learning, or related fields.
 
 My academic and professional adventures, so far, have taught me a lot about myself, my strengths, and the kind of work that I find most rewarding.
 
