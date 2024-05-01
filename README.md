@@ -25,6 +25,7 @@ I have recently become particularly interested in developments in machine learni
 To build a foundation in data science, I have relied primarily on independent study. I have completed several certifications, and completed coursework from a various open educational resources. Some highlights include:
 
 - Certificates:
+  - The Erdös Institute Data Science Boot Camp (Fall 2023)- **First Place Project** [certificate](https://www.erdosinstitute.org/certificates/fall-2023/data-science-boot-camp/marcos-ortiz) [project page](https://www.erdosinstitute.org/project-database/fall-2023/data-science-boot-camp/groundwater-forecasting)  
   - Machine Learning Specialization (July 2023) [certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/CL9C8ZWVH2BG)
   - Unsupervised Learning, Recommenders, Reinforcement Learning (July 2023) [certificate](https://www.coursera.org/account/accomplishments/certificate/XFB5Z367R3VM)
   - Advanced Learning Algorithms (June 2023) [certificate](https://www.coursera.org/account/accomplishments/certificate/6NLAHG7P6WJQ)
@@ -55,6 +56,6 @@ In my graduate research, I was exploring an abstract set of objects that interac
 - **BA in Psychology** *University of North Carolina at Wilmington*  (2004)
 
 # Employment
-- **Instructor of Mathematics** *Colorado Mesa University* (2018-present)
+- **Assistant Professor of Mathematics** *Colorado Mesa University* (2018-present)
 - **Visiting Assistant Professor of Mathematics** *Grinnell College* (2015-2018)
 
