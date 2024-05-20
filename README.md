@@ -1,4 +1,4 @@
-Check out my [current resume](ORTIZ-MARCOS-RESUME.pdf).
+Check out my [current resume](RESUME.pdf).
 
 # About Me
 
